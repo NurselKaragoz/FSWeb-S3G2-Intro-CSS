@@ -1,0 +1,88 @@
+* {
+  font-family: "Roboto Mono", monospace;
+  padding: 0%;
+  margin: 0%;
+}
+
+.nav {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  margin-bottom: 2rem;
+  margin-top: 2rem;
+}
+.oval {
+  width: 300px;
+  height: 300px;
+  /* object-fit: cover; */
+  border-radius: 50%;
+}
+
+.anametin {
+  margin-left: 20%;
+  margin-right: 20%;
+  background-color: #ddb9a3;
+  color: white;
+  margin-bottom: 5%;
+  margin-top: 1%;
+}
+
+#firstbox {
+  background-color: #ff764e;
+  padding: 25px 25px 25px 25px;
+  margin-bottom: 5%;
+  border-radius: 10%;
+  color: white;
+}
+#secondbox {
+  background-color: #5ed3eb;
+  padding: 25px 25px 25px 25px;
+  margin-bottom: 5%;
+  border-radius: 10%;
+  color: white;
+}
+
+#thirdbox {
+  background-color: #ffcd69;
+  padding: 25px 25px 25px 25px;
+  margin-bottom: 5%;
+  border-radius: 10%;
+  color: white;
+}
+.tanitim {
+  display: flex;
+  font-family: "Chelsea Market", cursive;
+  margin-top: 20px;
+  margin-left: 15%;
+}
+.texttanitim {
+  text-align: center;
+  margin-left: 25%;
+}
+.resim {
+  text-align: center;
+  margin-left: 0%;
+  margin-top: 0%;
+  margin-right: 0%;
+  height: 100%;
+  width: 100%;
+}
+.resimtext {
+  margin-left: 33%;
+  margin-right: 33%;
+  margin-bottom: 10%;
+  margin-top: 2rem;
+}
+.footer {
+  margin-left: 0%;
+  margin-right: 0%;
+  background-color: #f9e7dc;
+  border-radius: 3%;
+}
+.bold {
+  font-weight: bold;
+}
+.footerimage {
+  max-width: 100%;
+  height: auto;
+}
